@@ -96,6 +96,4 @@ Aplikasi berita sederhana dengan backend CodeIgniter 4 dan frontend Flutter.
 
 ## Output
 
-![Image](https://github.com/user-attachments/assets/0b368f79-6425-4988-a0e9-edda8dade3a5)
-![Image](https://github.com/user-attachments/assets/7b8b407b-2c90-4535-b731-3ab0b9803d0d)
-![Image](https://github.com/user-attachments/assets/31273dc7-1e41-46dd-93b2-ce7aa2e0c4a9)
+
